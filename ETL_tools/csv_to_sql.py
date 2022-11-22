@@ -8,7 +8,7 @@ config = {
     'user': db['user'],
     'password': db['pwrd'],
     'host': db['host'],
-    'database': db['database'],
+    'database': db['db'],
     'auth_plugin': 'mysql_native_password'
 }
 
